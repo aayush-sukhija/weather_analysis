@@ -5,6 +5,11 @@ Python = 3.6
  
 # How to Run
 Clone the repository in your system
+Install all the required libraries just by running
+
+![image](https://user-images.githubusercontent.com/68837733/122381304-64e18280-cf86-11eb-9d34-1f13b6d60160.png)
+
+
 Run the python file present from CMD
 Pass the location as command line argument for which you want to do weather Analysis and generate charts.
   
