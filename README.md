@@ -10,3 +10,5 @@ Pass the location as command line argument for which you want to do weather Anal
   
   
   ![image](https://user-images.githubusercontent.com/68837733/122380195-4038db00-cf85-11eb-8dee-835837ca42d1.png)
+  
+  The code will generate charts and publish them in image files which you can see in same repository after complete execution of the script.
