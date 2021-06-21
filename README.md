@@ -11,10 +11,18 @@ Install all the required libraries just by running
 
 
 Run the python file present from CMD.
-Pass the location as command line argument for which you want to do weather Analysis and generate charts.
+
+![image](https://user-images.githubusercontent.com/68837733/122723677-daa06380-d290-11eb-81b3-d87b0f469eb7.png)
+
+
+
+Choose the location from the below list for which you want to do weather Analysis and generate charts.
   
   
-![image](https://user-images.githubusercontent.com/68837733/122380897-f8668380-cf85-11eb-9fb8-e8265dcf7f00.png)
+![image](https://user-images.githubusercontent.com/68837733/122723980-25ba7680-d291-11eb-931e-6dcbba0b4ae1.png)
+
+
+
 
   
   The code will generate charts and publish them in image files which you can see in same repository after complete execution of the script.
