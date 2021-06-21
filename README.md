@@ -26,7 +26,7 @@ Choose the location from the below list for which you want to do weather Analysi
 
   
   The code will generate charts and publish them in image files which you can see in same repository after complete execution of the script.
+  These images can be further published into html web pages.
   
   # Enhancement
-  Error handling need to be implemented.
-  Different locations have different structure of datasets, Need to make code generalize which will work for all locations
+  Advance Error handling need to be implemented.
